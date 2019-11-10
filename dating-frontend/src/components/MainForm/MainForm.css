@@ -1,0 +1,23 @@
+.MainForm {
+    flex-grow: 1;
+    text-align: center;
+    color: #fff;
+    padding: 5rem 0 3rem;
+    background-image: url('../../../public/images/download.jpg');
+    background-position: 50%;
+    background-size: cover;
+    position: relative;
+}
+
+.MainForm form {
+    max-width: 75rem;
+    margin: 0 auto;
+}
+
+.MainForm form h4 {
+    margin: 4rem 0 0;
+}
+
+.formControl {
+    width: 100%;
+}

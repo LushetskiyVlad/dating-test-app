@@ -1,0 +1,12 @@
+.Select select {
+    border-radius: 3px;
+    margin: 0 0 1rem;
+    background-color: #fafafa;
+    border: 1px solid #ccc;
+    padding: .5rem;
+    font-size: .875rem;
+    color: #2d3339;
+    line-height: normal;
+    height: 2.3125rem;
+    width: 100%;
+}

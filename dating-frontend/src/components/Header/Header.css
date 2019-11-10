@@ -1,0 +1,18 @@
+.topbar-login {
+    background: #319dd4;
+    height: 100px;
+    color: #fff;
+}
+
+.topbar-logo {
+    float: left;
+}
+
+.topbar-logo img {
+    margin: 1rem 0 0;
+    height: 60px;
+}
+
+.topbar-login-form {
+    float: right;
+}
